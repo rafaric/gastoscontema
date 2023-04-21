@@ -1,4 +1,4 @@
-import { Icono, IconoCO } from "./Components/UI";
+import { IconoCO } from "./Components/UI";
 import alimentacion from "./assets/images/alimentacion.svg";
 import salud from "./assets/images/salud.svg";
 import transporte from "./assets/images/transporte.svg";
